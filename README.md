@@ -27,7 +27,7 @@ Durch meine langjährige Berufserfahrung in Vertrieb, Logistik und Geschäftspro
 
 ## Praktische Erfahrung 💻
 
-### iSlave / iHomeBot – Teamprojekt der FIAE-Umschulung
+### [iSlave / iHomeBot](https://github.com/Moewe-WHV/iSlave) – Teamprojekt der FIAE-Umschulung
 
 Mitarbeit an einer Python-Terminalanwendung zur Steuerung eines humanoiden Haushaltsroboters. Mein persönlicher Beitrag umfasst unter anderem:
 
