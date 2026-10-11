@@ -55,6 +55,6 @@ Neben der Softwareentwicklung beschäftige ich mich mit visueller Gestaltung, In
 ## Kontakt und Profile 🤝
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Radu_Stroescu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radu-stroescu-fiae/)
-[![Behance](https://img.shields.io/badge/Behance-Kreativportfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/radustroescu)
+[![Behance](assets/behance-badge.svg)](https://www.behance.net/radustroescu)
 
 Ich freue mich über fachlichen Austausch, konstruktives Feedback und Kontakte zu Unternehmen, die Umschülern einen praxisnahen Einstieg in die Anwendungsentwicklung ermöglichen.
