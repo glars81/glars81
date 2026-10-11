@@ -17,13 +17,13 @@ Durch meine langjährige Berufserfahrung in Vertrieb, Logistik und Geschäftspro
 
 ## Technologien und Werkzeuge 🛠️
 
-![Python](https://img.shields.io/badge/Python-Grundlagen-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Grundlagen-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Versionsverwaltung-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Teamarbeit-181717?style=flat-square&logo=github&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-Testing-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-Entwicklungsumgebung-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Grundlagen-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](assets/python-badge.svg)
+![MySQL](assets/mysql-badge.svg)
+![Git](assets/git-badge.svg)
+![GitHub](assets/github-badge.svg)
+![pytest](assets/pytest-badge.svg)
+![VS Code](assets/vscode-badge.svg)
+![Linux](assets/linux-badge.svg)
 
 ## Praktische Erfahrung 💻
 
@@ -54,7 +54,7 @@ Neben der Softwareentwicklung beschäftige ich mich mit visueller Gestaltung, In
 
 ## Kontakt und Profile 🤝
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Radu_Stroescu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radu-stroescu-fiae/)
+[![LinkedIn](assets/linkedin-badge.svg)](https://www.linkedin.com/in/radu-stroescu-fiae/)
 [![Behance](assets/behance-badge.svg)](https://www.behance.net/radustroescu)
 
 Ich freue mich über fachlichen Austausch, konstruktives Feedback und Kontakte zu Unternehmen, die Umschülern einen praxisnahen Einstieg in die Anwendungsentwicklung ermöglichen.
